@@ -24,4 +24,5 @@ making multithreaded from single thread
 Mention where you got help for your assignment and if you used chat gpt (not encouraged) mention the questions you gave and the reply you got that you are using in the assignment.
 
 ## Screenshots
-![Add screenshots here.]() 
+![image](https://user-images.githubusercontent.com/126978743/231852491-7e6ed392-090b-4461-8021-eec19a9a10ba.png)
+
